@@ -1,0 +1,1 @@
+[{"model": "admin.logentry", "pk": 1, "fields": {"action_time": "2019-12-13T11:44:57.544Z", "user": 1, "content_type": 9, "object_id": "1", "object_repr": "ernestovazquez", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"domain\", \"name\"]}}]"}}]
